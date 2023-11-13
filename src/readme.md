@@ -1,1 +1,1 @@
-Folder with code on rust
+# Folders for any part's in blockchain course on Rust
