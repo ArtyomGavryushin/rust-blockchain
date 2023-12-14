@@ -1,5 +1,7 @@
 That's 5th part with wallet and transactions in blockchain.
 
+Without realization creating wallet.
+
 Commands for any test's:
 
 `cargo run create user1` - For creating blockchain structure.
